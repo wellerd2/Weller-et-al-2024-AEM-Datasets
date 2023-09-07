@@ -18,7 +18,6 @@ The variables included these datasets are:
 10. terrhabtat: Predominant Terrestrial Habitat () where the sample was collected
 11. huc2.nm.nhd: Hydrologic Unit Code (HUC) 2, representing the watershed region where the sample was collected
 12. huc4.nm.nhd: Hydrologic Unit Code (HUC) 4, representing the watershed subregion where the sample was collected
-13. huc6.nm.nhd Hydrologic Unit Code (HUC) 6, representing the watershed basin where the sample was collected
 14. usda.regions: USDA Region () where the sample was collected
 15. epa.regions EPA Region () where the sample was collected
 16. fresh: Freshwater status of the sampled waterway (i.e., freshwater or brackish/saltwater)
