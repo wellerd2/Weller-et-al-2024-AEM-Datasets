@@ -30,20 +30,23 @@ The variables included these datasets are:
 25. sal_pa: If the sample was Salmonella positive (p) or negative (n)
 26. sal_vol: Sample volume tested for Salmonella. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
 27. sal_molecular: If molecular or culture-based methods used for Salmonella detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
-28. sal_inva
-29. sal_ttr
+28. sal_inva: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was invA a gene target? (y=Yes; n=No)
+29. sal_ttr: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was ttr a gene target? (y=Yes; n=No)
 30. pec_pa: If the sample was pathogenic E. coli positive (p) or negative (n)
+31. stec_pa: If the sample was Shiga-toxin producing E. coli positive (p) or negative (n) based on detection of the stx1 or stx2 genes.
+32. epec_pa: If the sample was enteropathogenic E. coli positive (p) or negative (n) based on detection of the eaeA gene.
+33. o157h7_pa: If the sample was E. coli O157:H7 positive (p) or negative (n)
 34. pec_vol: Sample volume tested for pathogenic E. coli. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
 35. pec_molecular: If molecular or culture-based methods used for pathogenic E. coli detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
-36. pec_stx
-37. pec_eaea
-38. pec_rfb0157
-39. pec_hly
-40. pec_h7flic
+36. pec_stx: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was stx1 and/or stx2 a gene target? (y=Yes; n=No)
+37. pec_eaea: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was eaeA a gene target? (y=Yes; n=No)
+38. pec_rfb0157: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was rfb0157 a gene target? (y=Yes; n=No)
+39. pec_hly: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was hly a gene target? (y=Yes; n=No)
+40. pec_h7flic: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was h6flic a gene target? (y=Yes; n=No)
 41. lm_pa: If the sample was Listeria monocytogenes positive (p) or negative (n)
-42. ls_pa: If the sample was Literia spp. positive (p) or negative (n)
+42. ls_pa: If the sample was Listeria spp. positive (p) or negative (n)
 43. lm_confirm: Method used for confirming presumptive Listeria-positive samples as Listeria positive.
-44. lm_sigb
+44. lm_sigb: If the detection method used was (i) molecular, or (ii) culture-based but included PCR-screen or PCR-confirmation of presumptive isolates, was sigB a gene target? (y=Yes; n=No)
 45. lm_vol: Sample volume tested for Listeria. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
 46. lm_molecular_culture: If molecular or culture-based methods used for Listeria detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
 47. ec: E. coli concentration per 100 mL
