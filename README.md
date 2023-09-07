@@ -33,9 +33,6 @@ The variables included these datasets are:
 28. sal_inva
 29. sal_ttr
 30. pec_pa: If the sample was pathogenic E. coli positive (p) or negative (n)
-31. stec_pa: If the sample was Shiga-toxin producing E. coli positive (p) or negative (n)
-32. epec_pa: If the sample was enteropathogenic E. coli positive (p) or negative (n)
-33. o157h7_pa: If the sample was E. coli O157:H7 positive (p) or negative (n)
 34. pec_vol: Sample volume tested for pathogenic E. coli. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
 35. pec_molecular: If molecular or culture-based methods used for pathogenic E. coli detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
 36. pec_stx
