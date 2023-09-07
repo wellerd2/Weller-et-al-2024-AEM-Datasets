@@ -29,16 +29,16 @@ The variables included these datasets are:
 22. sample_type: Sample Type (i.e., grab sample or Moore swab)
 23. sample_filter: Method Used to Filter Samples (i.e., ). Since Moore swabs are essentially filtered in situ, if sample type = Moore swab then filter method = Moore swab
 25. sal_pa: If the sample was Salmonella positive (p) or negative (n)
-26. sal_vol
-27. sal_molecular
+26. sal_vol: Sample volume tested for Salmonella. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
+27. sal_molecular: If molecular or culture-based methods used for Salmonella detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
 28. sal_inva
 29. sal_ttr
 30. pec_pa: If the sample was pathogenic E. coli positive (p) or negative (n)
 31. stec_pa: If the sample was Shiga-toxin producing E. coli positive (p) or negative (n)
 32. epec_pa: If the sample was enteropathogenic E. coli positive (p) or negative (n)
 33. o157h7_pa: If the sample was E. coli O157:H7 positive (p) or negative (n)
-34. pec_vol
-35. pec_molecular
+34. pec_vol: Sample volume tested for pathogenic E. coli. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
+35. pec_molecular: If molecular or culture-based methods used for pathogenic E. coli detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
 36. pec_stx
 37. pec_eaea
 38. pec_rfb0157
@@ -46,23 +46,23 @@ The variables included these datasets are:
 40. pec_h7flic
 41. lm_pa: If the sample was Listeria monocytogenes positive (p) or negative (n)
 42. ls_pa: If the sample was Literia spp. positive (p) or negative (n)
-43. lm_confirm
+43. lm_confirm: Method used for confirming presumptive Listeria-positive samples as Listeria positive.
 44. lm_sigb
-45. lm_vol
-46. lm_molecular_culture
-47. ec
+45. lm_vol: Sample volume tested for Listeria. Since Moore swabs are essentially filtered in situ, the volume represented is unknown and is left blank here.
+46. lm_molecular_culture: If molecular or culture-based methods used for Listeria detection; see Weller et al. (unpublished) for how molecular versus culture-based methods were defined.
+47. ec: E. coli concentration per 100 mL
 48. ec_methodf
 49. ec_methodm
 50. ec_methodc
-51. entero
+51. entero: Enterococcus concentration per 100 mL
 52. entero_methodf
 53. entero_methodm
 54. entero_methodc
-55. fc
+55. fc: Fecal coliform concentration per 100 mL
 56. fc_methodf
 57. fc_methodm
 58. fc_methodc
-53. tc
+53. tc: Total coliform concentration per 100 mL
 54. tc_methodf
 55. tc_methodm
 56. tc_methodc
