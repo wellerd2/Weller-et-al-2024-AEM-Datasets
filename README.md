@@ -1,4 +1,4 @@
-# Surface Water Qaulity Database
+# Surface Water Quality Database
 
 The data presented are a subset of those used in Weller et al. (2024) and Murphy et al (2025). Table 1 in Weller et al. (2024) and Table 1 in Murphy et al (2025) lists all datasets used by said publication including appropriate citations. Datasets are only included here if the data owners gave permission for the data to be shared, and the data were not already publicly available. The data included here do not represent the full dataset (e.g., GPS coordinates, site names, and waterway names were dropped); please reach out to the data owners for the full dataset. Some of the variables in these datasets were added by Weller et al. (2024) and Murphey et al (2025) and will not be included in the full dataset provided by the data owners (e.g., methods variables). 
 
@@ -6,7 +6,7 @@ If you download and use a given dataset, cite the original data source(s) as wel
 
 NOTE: For E. coli and microbial source tracking data from the PAWQ study see https://github.com/wellerd2/Green-et-al.-2021-Datasets.
 
-GitHub Citation: 10.	Weller, D. *, C. Murphy °, T. Love, M. Danyluk, and L. Strawn. 2024. Surface Water Qaulity Database. https://github.com/wellerd2/Weller-et-al-2024-AEM-Datasets?tab=readme-ov-file. 
+GitHub Citation: 10.	Weller, D. *, C. Murphy °, T. Love, M. Danyluk, and L. Strawn. 2024. Surface Water Quality Database. https://github.com/wellerd2/Weller-et-al-2024-AEM-Datasets?tab=readme-ov-file. 
 
 Weller et al. 2024 citation: Weller, D., C. Murphy, T. Love, M. Danyluk, and L. Strawn. 2024. Methodological differences between studies confound one-size-fits-all approaches to managing surface waterways for food and water safety. Applied and Environmental Microbiology. https://journals.asm.org/doi/10.1128/aem.01835-23
 
