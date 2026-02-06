@@ -12,7 +12,7 @@ NOTE: For E. coli and microbial source tracking data from the PAWQ study see htt
 ### GitHub Citation
 1. Weller, D. *, C. Murphy °, T. Love, M. Danyluk, and L. Strawn. 2024. Surface Water Quality Database. https://github.com/wellerd2/Weller-et-al-2024-AEM-Datasets?tab=readme-ov-file. DOI: 10.5281/zenodo.18500776
 
-### Manuscripts
+### Manuscript Citations
 1. Weller et al. 2024 citation: Weller, D., C. Murphy, T. Love, M. Danyluk, and L. Strawn. 2024. Methodological differences between studies confound one-size-fits-all approaches to managing surface waterways for food and water safety. Applied and Environmental Microbiology. https://journals.asm.org/doi/10.1128/aem.01835-23
 2. Murphy et al 2025 citation: Murphy, C. °, D. Weller, T. Love, M. Danyluk and L. Strawn. 2025. The probability of detecting host-specific microbial source-tracking markers in surface waterways was strongly associated with the methods chosen for sample collection and marker detection. Microbiology Spectrum: https://doi.org/10.1128/spectrum.01972-24.
 
