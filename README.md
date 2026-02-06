@@ -6,12 +6,15 @@ If you download and use a given dataset, cite the original data source(s) as wel
 
 NOTE: For E. coli and microbial source tracking data from the PAWQ study see https://github.com/wellerd2/Green-et-al.-2021-Datasets.
 
-GitHub Citation: 10.	Weller, D. *, C. Murphy °, T. Love, M. Danyluk, and L. Strawn. 2024. Surface Water Quality Database. https://github.com/wellerd2/Weller-et-al-2024-AEM-Datasets?tab=readme-ov-file. 
+## Citations
+### GitHub Citation
+1. Weller, D. *, C. Murphy °, T. Love, M. Danyluk, and L. Strawn. 2024. Surface Water Quality Database. https://github.com/wellerd2/Weller-et-al-2024-AEM-Datasets?tab=readme-ov-file. 
 
-Weller et al. 2024 citation: Weller, D., C. Murphy, T. Love, M. Danyluk, and L. Strawn. 2024. Methodological differences between studies confound one-size-fits-all approaches to managing surface waterways for food and water safety. Applied and Environmental Microbiology. https://journals.asm.org/doi/10.1128/aem.01835-23
+### Manuscripts
+1. Weller et al. 2024 citation: Weller, D., C. Murphy, T. Love, M. Danyluk, and L. Strawn. 2024. Methodological differences between studies confound one-size-fits-all approaches to managing surface waterways for food and water safety. Applied and Environmental Microbiology. https://journals.asm.org/doi/10.1128/aem.01835-23
+2. Murphy et al 2025 citation: Murphy, C. °, D. Weller, T. Love, M. Danyluk and L. Strawn. 2025. The probability of detecting host-specific microbial source-tracking markers in surface waterways was strongly associated with the methods chosen for sample collection and marker detection. Microbiology Spectrum: https://doi.org/10.1128/spectrum.01972-24.
 
-Murphy et al 2025 citation: Murphy, C. °, D. Weller, T. Love, M. Danyluk and L. Strawn. 2025. The probability of detecting host-specific microbial source-tracking markers in surface waterways was strongly associated with the methods chosen for sample collection and marker detection. Microbiology Spectrum: https://doi.org/10.1128/spectrum.01972-24.
-
+## Data Dictionary
 The variables included these datasets are:
 
 1. study_sh: Study abbreviation used to link datasets to Table 1 in Weller et al. (unpublished)
